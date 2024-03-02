@@ -85,7 +85,7 @@ These acknowledgments are a testament to the collaborative spirit and open-sourc
 
 ## [Demo] (#demo)
 
-Check out our live demo [here](https://mk-mojib.github.io/)
+Check out our live demo [here](https://mk-mojib.github.io/ecommerce-react-app/)
 
 ![navbar & hero](image.png)
 ![footer](image-1.png)
