@@ -59,70 +59,41 @@
     .
 ├── src
 │   ├── Components
-                ├── Assets
-                        ├── all_product.js
-                        ├── data.js
-                        └── new_collections.js
-                ├── Breadcrums
-                            ├── Breadcrum.jsx
-                            └── Breadcrum.css
-                ├── CartItems
-                            ├── CartItems.jsx
-                            └── CartItems.css
-                ├── DescriptionBox
-                                ├── DescriptionBox.jsx
-                                └── DescriptionBox.css
-                ├── Footer
-                        ├── Footer.jsx
-                        └── Footer.css
-                ├── Hero
-                       ├── Hero.jsx
-                       └── Hero.css
-                ├── Item
-                      ├── Item.jsx
-                      └── Item.css
-                ├── Latest
-                        ├── Latest.jsx
-                        └── Latest.css
-                ├── Navbar
-                        ├── Navbar.jsx
-                        └── Navbar.css
-                ├── NewCollections
-                                ├── NewCollections.jsx
-                                └── NewCollections.css
-                ├── NewsLetter
-                            ├── NewsLetter.jsx
-                            └── NewsLetter.css
-                ├── Offers
-                        ├── Offers.jsx
-                        └── Offers.css
-                ├── ProductDisplay
-                                ├── ProductDisplay.jsx
-                                └── ProductDisplay.css
-                └── RelatedProducts
-                                ├── RelatedProducts.jsx
-                                └── RelatedProducts.css
+        ├── Assets
+        ├── Breadcrums
+        ├── CartItems
+        ├── DescriptionBox
+        ├── Footer
+        ├── Hero
+        ├── Item
+        ├── Latest
+        ├── Navbar
+        ├── NewCollections
+        ├── NewsLetter
+        ├── Offers
+        ├── ProductDisplay
+        └── RelatedProducts
 │   ├── Context
-            └── ShopContex.jsx
+        └── ShopContex.jsx
     ├── Pages
-            ├── CSS 
-                ├── LoginSignup.css
-                └── ShopCategory.css
-            ├── Cart.jsx
-            ├── LoginSignup.jsx
-            ├── Products.jsx
-            ├── Shop.jsx
-            ├── ShopCategory.jsx
+        ├── CSS 
+            ├── LoginSignup.css
+            └── ShopCategory.css
+        ├── Cart.jsx
+        ├── LoginSignup.jsx
+        ├── Products.jsx
+        ├── Shop.jsx
+        └── ShopCategory.jsx
 │   ├── Styles
-            ├── App.css
-            └── index.css
+        ├── App.css
+        └── index.css
 
 │   ├── App.js
     └── index.js
 ├── public/
 │   ├── index.html
 │   ├── images
-            └── logo_moshop.png
+        └── logo_moshop.png
 │   └── manifest.json
 ├── package.json
 └── .gitignore
