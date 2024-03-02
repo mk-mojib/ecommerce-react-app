@@ -1,0 +1,118 @@
+.cartitems {
+    margin: 100px 130px;
+}
+.cartitems hr {
+    height: 3px;
+    background: #e2e2e2;
+    border: 0;
+}
+.cartitems-format-main {
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap: 75px;
+    padding: 20px 0px;
+    color: #454545;
+    font-size: 18px;
+    font-weight: 600;
+}
+.cartitems-format {
+    font-size: 17px;
+    font-weight: 500;
+}
+.carticon-product-icon {
+    height: 62px;
+}
+.cartitems-remove-icon {
+    width: 15px;
+    margin: 0px 40px;
+    cursor: pointer;
+}
+.cartitems-qty {
+    width: 56px;
+    height: 38px;
+    border: 2px solid #ebebeb;
+    background-color: #fff;
+}
+.cartitems-down {
+    display: flex;
+    margin: 100px 0px;
+}
+.cartitems-total {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-right: 200px;
+    gap: 40px;
+}
+.cartitems-total-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.cartitems-total button {
+    width: 260px;
+    height: 31px;
+    padding: 1px 6px;
+    border: none;
+    outline: none;
+    /* background-color: #fb641b; */
+    background: #ffd814;
+    /* color: #fff; */
+    color: #0f1111;
+    font-size: 15px;
+    border-color: #fcd200;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px 0 rgba(213,217,217,.5);
+    cursor: pointer;
+}
+.cartitems-promocode {
+    flex: 1;
+    font-size: 16px;
+    font-weight: 500;
+}
+.cartitems-promocode p {
+    color: #555;
+    color: #007185;
+    margin-left: 20px;
+}
+.cartitems-promobox {
+    width: 504px;
+    height: 58px;
+    margin-top: 15px;
+    padding-left: 20px;
+    background-color: #eaeaea;
+    border-radius: 30px;
+    border: 1px solid #d5d9d9;
+}
+.cartitems-promobox:hover {
+    border: 1px solid #007185;
+}
+.cartitems-promobox input {
+    width: 330px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+}
+.cartitems-promocode button {
+    width: 170px;
+    height: 58px;
+    font-size: 16px;
+    font-weight: 600;
+    background: #f0f2f2;
+    color: #007185;
+    cursor: pointer;
+    border-radius: 30px;
+    border: 1px solid #d5d9d9;
+}
+.cartitems-promocode button:hover {
+    font-size: 17px;
+    color: #0f1111;
+}
+.cartitems-promocode button:active {
+    font-size: 17px;
+    background: #ffd814;
+    color: #0f1111;
+}

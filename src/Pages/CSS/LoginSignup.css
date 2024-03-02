@@ -1,0 +1,73 @@
+.logsignup {
+    width: 100%;
+    height: 80vh;
+    background: linear-gradient(180deg, #4562ba, #e1ffea22 100%);
+    padding-top: 100px;
+}
+.logsignup-container {
+    width: 580px;
+    height: 600px;
+    background-color: #fff;
+    margin: auto;
+    padding: 40px 60px;
+    /* border: 1px solid goldenrod; */
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 1px #c9c9c9;
+}
+.logsignup-container h1 {
+    color: goldenrod;
+    margin: 20px 0px;
+}
+.logsignup-feilds {
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    margin-top: 30px;
+}
+.logsignup-feilds input {
+    height: 72px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #5c5c5c;
+    font-size: 18px;
+    border-radius: 15px;
+}
+.logsignup-container button {
+    width: 300px;
+    height: 60px;
+    color: #fff;
+    background-color: #049004;
+    margin-top: 30px;
+    margin-left: 150px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.logsignup-container button:active {
+    background-color: #000;
+}
+.logsignup-login {
+    margin-top: 20px;
+    color: #5c5c5c;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 150px;
+}
+.logsignup-login span {
+    color: #ff4141;
+    font-weight: 600;
+    cursor: pointer;
+}
+.logsignup-agree {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    gap: 20px;
+    color: #5c5c5c;
+    font-size: 18px;
+    font-weight: 500;
+}
