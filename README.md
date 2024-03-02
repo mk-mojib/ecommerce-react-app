@@ -56,46 +56,7 @@
     Collaboration Platform: GitHub serves as our collaborative platform, enabling developers to contribute, review code, and manage project workflows efficiently.
 
 ## [Project-structure] (#project-structure)
-    .
-├── src
-│   ├── Components
-                ├── Assets
-                ├── Breadcrums
-                ├── CartItems
-                ├── DescriptionBox
-                ├── Footer
-                ├── Hero
-                ├── Item
-                ├── Latest
-                ├── Navbar
-                ├── NewCollections
-                ├── NewsLetter
-                ├── Offers
-                ├── ProductDisplay
-                └── RelatedProducts
-│   ├── Context
-            └── ShopContex.jsx
-    ├── Pages
-            ├── CSS 
-                ├── LoginSignup.css
-                └── ShopCategory.css
-            ├── Cart.jsx
-            ├── LoginSignup.jsx
-            ├── Products.jsx
-            ├── Shop.jsx
-            ├── ShopCategory.jsx
-│   ├── Styles
-            ├── App.css
-            └── index.css
-
-│   ├── App.js
-    └── index.js
-├── public/
-│   ├── index.html
-│   ├── images
-├── package.json
-└── .gitignore
-
+ 
 ![alt text](image-2.png)
 
 ## contributing
