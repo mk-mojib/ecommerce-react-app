@@ -59,45 +59,44 @@
     .
 ├── src
 │   ├── Components
-        ├── Assets
-        ├── Breadcrums
-        ├── CartItems
-        ├── DescriptionBox
-        ├── Footer
-        ├── Hero
-        ├── Item
-        ├── Latest
-        ├── Navbar
-        ├── NewCollections
-        ├── NewsLetter
-        ├── Offers
-        ├── ProductDisplay
-        └── RelatedProducts
+                ├── Assets
+                ├── Breadcrums
+                ├── CartItems
+                ├── DescriptionBox
+                ├── Footer
+                ├── Hero
+                ├── Item
+                ├── Latest
+                ├── Navbar
+                ├── NewCollections
+                ├── NewsLetter
+                ├── Offers
+                ├── ProductDisplay
+                └── RelatedProducts
 │   ├── Context
-        └── ShopContex.jsx
+            └── ShopContex.jsx
     ├── Pages
-        ├── CSS 
-            ├── LoginSignup.css
-            └── ShopCategory.css
-        ├── Cart.jsx
-        ├── LoginSignup.jsx
-        ├── Products.jsx
-        ├── Shop.jsx
-        └── ShopCategory.jsx
+            ├── CSS 
+                ├── LoginSignup.css
+                └── ShopCategory.css
+            ├── Cart.jsx
+            ├── LoginSignup.jsx
+            ├── Products.jsx
+            ├── Shop.jsx
+            ├── ShopCategory.jsx
 │   ├── Styles
-        ├── App.css
-        └── index.css
+            ├── App.css
+            └── index.css
 
 │   ├── App.js
     └── index.js
 ├── public/
 │   ├── index.html
 │   ├── images
-        └── logo_moshop.png
-│   └── manifest.json
 ├── package.json
 └── .gitignore
 
+![alt text](image-2.png)
 
 ## contributing
     Md Khalid Mojib (My Self)
